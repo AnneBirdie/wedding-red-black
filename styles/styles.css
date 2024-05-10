@@ -469,9 +469,7 @@ select>option:focus{
     background-color: rgba(60, 60, 62, 1);
 }
 /*block 5.......................................................................................................................*/
-.block_5{
-    margin: 0 5% 0 5%;
-}
+
 .occasions{
     display: flex;
     flex-direction: column;
