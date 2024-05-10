@@ -33,7 +33,7 @@ a{
 .titles{
     font-size: 30px;
     text-align: center;
-    width: 90%;
+    margin: 0 5% 0 5%;
 }
 
 #scroll_btn{
